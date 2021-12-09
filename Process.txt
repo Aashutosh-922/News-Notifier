@@ -1,0 +1,2 @@
+git clone the repo.
+And then run NN.py
